@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GraphCut"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GraphCut">
+				<Option output="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/GraphCut" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/include"/>
+					<Add directory="/usr/local/Cellar/opencv/4.4.0_1/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 GraphCut"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GraphCut/fast">
+				<Option output="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/GraphCut" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/include"/>
+					<Add directory="/usr/local/Cellar/opencv/4.4.0_1/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 GraphCut/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/include/Graph.hpp">
+			<Option target="GraphCut"/>
+		</Unit>
+		<Unit filename="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/include/GraphCutTexture.hpp">
+			<Option target="GraphCut"/>
+		</Unit>
+		<Unit filename="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/include/MInCut.hpp">
+			<Option target="GraphCut"/>
+		</Unit>
+		<Unit filename="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/include/MaxFlow.hpp">
+			<Option target="GraphCut"/>
+		</Unit>
+		<Unit filename="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/main.cpp">
+			<Option target="GraphCut"/>
+		</Unit>
+		<Unit filename="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/../../../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/../../../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/../../../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/aiemu/Documents/01-Codes/01-CurrentCourse/MediaComputing/proj1/GraphCut/../../../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
