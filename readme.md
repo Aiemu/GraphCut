@@ -96,11 +96,11 @@ make
 
 <div style="display: flex;">
     <div style="width: 100%;">
-        <img src="1.png">
+        <img src="https://aimerlover.cn/storage/green.png">
         <div style="text-align: center;">图4.1.1</div>
     </div>
     <div style="width: 100%; margin-left:5%;">
-        <img src="o1.png">
+        <img src="https://aimerlover.cn/storage/old_cut_green.png">
         <div style="text-align: center;">图4.1.2</div>
     </div>
 </div> 
@@ -109,11 +109,11 @@ make
 </br>
 <div style="display: flex;">
     <div style="width: 100%;">
-        <img src="2.png">
+        <img src="https://aimerlover.cn/storage/akeyboard_small.png">
         <div style="text-align: center;">图4.2.1</div>
     </div>
     <div style="width: 100%; margin-left:5%;">
-        <img src="o2.png">
+        <img src="https://aimerlover.cn/storage/old_cut_akeyboard_small.png">
         <div style="text-align: center;">图4.2.2</div>
     </div>
 </div> 
@@ -122,13 +122,14 @@ make
 
 <div style="display: flex;">
     <div style="width: 100%;">
-        <img src="3.png">
+        <img src="https://aimerlover.cn/storage/strawberries.png">
         <div style="text-align: center;">图4.3.1</div>
     </div>
     <div style="width: 100%; margin-left:5%;">
-        <img src="o3.png">
+        <img src="https://aimerlover.cn/storage/old_cut_strawberries.png">
         <div style="text-align: center;">图4.3.2 len = 8</div>
     </div>
 </div> 
 
-可以看到其中草莓的效果较好，这得益于本身纹理的不规则性。
+可以看到其中草莓的效果较好，这得益于本身纹理的不规则性，但仔细观察会发现"异形"草莓；
+相比之下，键盘和绿色纹理效果不好，主要是由于其规则性，效果一目了然。
