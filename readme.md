@@ -127,7 +127,7 @@ make
     </div>
     <div style="width: 100%; margin-left:5%;">
         <img src="https://aimerlover.cn/storage/old_cut_strawberries.png">
-        <div style="text-align: center;">图4.3.2 len = 8</div>
+        <div style="text-align: center;">图4.3.2</div>
     </div>
 </div> 
 
