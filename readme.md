@@ -96,11 +96,11 @@ make
 
 <div style="display: flex;">
     <div style="width: 100%;">
-        <img src="https://aimerlover.cn/storage/green.png">
+        <img src="https://aimerlover.cn/storage/img/green.png">
         <div style="text-align: center;">图4.1.1</div>
     </div>
     <div style="width: 100%; margin-left:5%;">
-        <img src="https://aimerlover.cn/storage/old_cut_green.png">
+        <img src="https://aimerlover.cn/storage/img/old_cut_green.png">
         <div style="text-align: center;">图4.1.2</div>
     </div>
 </div> 
@@ -109,11 +109,11 @@ make
 </br>
 <div style="display: flex;">
     <div style="width: 100%;">
-        <img src="https://aimerlover.cn/storage/akeyboard_small.png">
+        <img src="https://aimerlover.cn/storage/img/akeyboard_small.png">
         <div style="text-align: center;">图4.2.1</div>
     </div>
     <div style="width: 100%; margin-left:5%;">
-        <img src="https://aimerlover.cn/storage/old_cut_akeyboard_small.png">
+        <img src="https://aimerlover.cn/storage/img/old_cut_akeyboard_small.png">
         <div style="text-align: center;">图4.2.2</div>
     </div>
 </div> 
@@ -122,11 +122,11 @@ make
 
 <div style="display: flex;">
     <div style="width: 100%;">
-        <img src="https://aimerlover.cn/storage/strawberries.png">
+        <img src="https://aimerlover.cn/storage/img/strawberries.png">
         <div style="text-align: center;">图4.3.1</div>
     </div>
     <div style="width: 100%; margin-left:5%;">
-        <img src="https://aimerlover.cn/storage/old_cut_strawberries.png">
+        <img src="https://aimerlover.cn/storage/img/old_cut_strawberries.png">
         <div style="text-align: center;">图4.3.2</div>
     </div>
 </div> 
